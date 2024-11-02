@@ -1,4 +1,4 @@
-# Página web Fokus
+# Construindo uma Landing Page no Mundo Invertido com HTML e CSS
 <p align="left"><img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%20CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
